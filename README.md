@@ -9,10 +9,10 @@ Simple board like game for lower grades of primary school
 4. You can't go trough walls (red lines on table)
 5. If you step onto one of symbol, the random question will pop-up
    There is 4 category of questions
-   a. Language ('L' icon)
-   b. Math ('5' icon
-   c. Assotiations ('A' icon)
-   d. Logical questions ('star' icon)
+   1. Language ('L' icon)
+   2. Math ('5' icon
+   3. Assotiations ('A' icon)
+   4. Logical questions ('star' icon)
 6. Select answer with up and down cursor keys and press <enter>
 7. If answer is correct, you get points and additional 2 moves
 8. If answer is wrong, you lose all your moves and next player turns
