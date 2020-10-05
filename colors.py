@@ -1,0 +1,11 @@
+BLACK = (0, 0, 0)
+WHITE = (200, 200, 200)
+GREEN = (0, 200, 0)
+BLUE = (0, 0, 200)
+RED = (200, 0, 0)
+
+questionColor=(200,200,0)
+answerColor=(200,200,0)
+answerArrowColor=(200,200,0)
+playerColor = (100, 100, 200)
+scoreColor = (200, 200, 100)

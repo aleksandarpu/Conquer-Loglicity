@@ -1,0 +1,216 @@
+QZ:1:QuestionsZvezda\slik01.jpg
+Koji trougao nedostaje?
+A1: narandžasti
+A2: žuti
+A3: plavi
+A4: 
+QZ:1:QuestionsZvezda\dom01.jpg
+Koje 3 domine daju ispravan zbir?
+A1: 3-3, 1-2, 0-1
+A2: 3-3, 2-2, 0-2
+A3: 4-3, 1-2, 0-1
+A4: 2-2, 0-2, 1-2
+QZ:1:QuestionsZvezda\dom02.jpg
+Koje 3 domine daju ispravan zbir?
+A1: 4-2, 1-2, 1-2
+A2: 2-2, 1-2, 3-3
+A3: 3-3, 2-2, 1-2
+A4: 3-3, 2-2, 0-2
+QZ:1:QuestionsZvezda\dom04.jpg
+Koje 3 domine daju ispravan zbir?
+A1: 3-3, 2-2, 1-2
+A2: 4-2, 2-2, 1-3
+A3: 3-3, 0-2, 4-2
+A4: 4-3, 1-3, 1-2 
+QZ:1:QuestionsZvezda\dom05.jpg
+Koje 3 domine daju ispravan zbir?
+A1: 4-0, 2-2, 0-1, 0-2
+A2: 3-3, 2-2, 1-2, 0-1
+A3: 4-3, 0-1, 0-2, 1-2
+A4: 3-3, 1-2, 1-3, 0-1 
+QZ:1:QuestionsZvezda\fig01.jpg
+Koliko ima trouglova na slici
+A1:12
+A2:11
+A3:10
+A4:13
+QZ:1:QuestionsZvezda\fig02.jpg
+Koliko ima kvadrata na slici
+A1:40
+A2:18
+A3:20
+A4:42
+QZ:1:QuestionsZvezda\koliko_kvadrata.jpg
+Koliko ima kvadrata na slici
+A1:14
+A2:12
+A3:10
+A4:9
+QZ:1:QuestionsZvezda\koliko_kvadrata2.jpg
+Koliko ima kvadrata na slici
+A1:14
+A2:12
+A3:10
+A4:9
+QZ:1:QuestionsZvezda\kvadrat.jpg
+Koliko vrede zelene kockice
+A1:105
+A2:100
+A3:90
+A4:40
+QZ:1:QuestionsZvezda\kvadrat.jpg
+Koliko vrede roza kockice
+A1:25
+A2:20
+A3:10
+A4:40
+QZ:1:QuestionsZvezda\kvadrat.jpg
+Koliko vrede narandžaste kockice
+A1:40
+A2:14
+A3:28
+A4:20
+QZ:1:QuestionsZvezda\kvadrat.jpg
+Koliko vrede plave kockice
+A1:80
+A2:40
+A3:32
+A4:64
+QZ:1:QuestionsZvezda\nepripada1.jpg
+Koja kockica ne pripada grupi?
+A1:1
+A2:2
+A3:3
+A4:4
+QZ:1:QuestionsZvezda\nepripada2.jpg
+Koja tabela ne pripada grupi?
+A1:1
+A2:2
+A3:3
+A4:4
+QZ:1:QuestionsZvezda\nepripada3.jpg
+Koji red ne pripada grupi?
+A1:drugi
+A2:prvi
+A3:treći
+A4:četvrti
+QZ:1:QuestionsZvezda\par01b.jpg
+Koja senka pripada 1 zvezdi?
+A1:C
+A2:A
+A3:B
+A4:D
+QZ:1:QuestionsZvezda\par01b.jpg
+Koja senka pripada 2 zvezdi?
+A1:D
+A2:C
+A3:B
+A4:A
+QZ:1:QuestionsZvezda\par01b.jpg
+Koja senka pripada 3 zvezdi?
+A1:B
+A2:A
+A3:C
+A4:D
+QZ:1:QuestionsZvezda\par01b.jpg
+Koja senka pripada 4 zvezdi?
+A1:A
+A2:B
+A3:C
+A4:D
+QZ:1:QuestionsZvezda\par01c.jpg
+Koja senka pripada 1 zvezdi?
+A1:C
+A2:B
+A3:A
+A4:D
+QZ:1:QuestionsZvezda\par01c.jpg
+Koja senka pripada 2 zvezdi?
+A1:D
+A2:B
+A3:A
+A4:C
+QZ:1:QuestionsZvezda\par01c.jpg
+Koja senka pripada 3 zvezdi?
+A1:B
+A2:C
+A3:A
+A4:D
+QZ:1:QuestionsZvezda\par01c.jpg
+Koja senka pripada 4 zvezdi?
+A1:C
+A2:B
+A3:A
+A4:D
+QZ:1:QuestionsZvezda\parking.jpg 
+Koje parkin mesto je zauzeo auto?
+A1:87
+A2:85
+A3:97
+A4:98
+QZ:1:QuestionsZvezda\patter1.jpg
+Izračunaj broj koji nedostaje
+A1:28
+A2:3
+A3:30
+A4:35
+QZ:1:QuestionsZvezda\piramida.jpg
+Koji broj sakriva jagoda?
+A1:1
+A2:2
+A3:4
+A4:6
+QZ:1:QuestionsZvezda\piramida.jpg 
+Koji broj pokriva kokos?
+A1:5
+A2:6
+A3:4
+A4:7
+QZ:1:QuestionsZvezda\piramida.jpg
+Koji broj pokriva kruška?
+A1:10
+A2:11
+A3:9
+A4:8
+QZ:1:QuestionsZvezda\piramida.jpg
+Koji broj pokriva lubenica?
+A1:10
+A2:12
+A3:9
+A4:8
+QZ:1:QuestionsZvezda\piramida.jpg
+Koji broj pokriva kajsija?
+A1:5
+A2:6
+A3:7
+A4:8
+QZ:1:QuestionsZvezda\piramida.jpg
+Koji broj pokriva jabuka?
+A1:1
+A2:3
+A3:5
+A4:4
+QZ:1:QuestionsZvezda\piramida2.jpg
+Koji broj nedostaje?
+A1:6
+A2:5
+A3:4
+A4:7
+QZ:1:QuestionsZvezda\sladoled.jpg
+Koliko sladoleda je prodato juna?
+A1:111
+A2:115
+A3:119
+A4:101
+QZ:1:QuestionsZvezda\sladoled.jpg
+Koliko milkšejka je prodato u julu?
+A1:35
+A2:40
+A3:30
+A4:32
+QZ:1:QuestionsZvezda\sladoled.jpg
+Koliko je štapića prodato u avgustu?
+A1:115
+A2:120
+A3:105
+A4:117

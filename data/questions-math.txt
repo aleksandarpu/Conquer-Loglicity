@@ -1,0 +1,621 @@
+Q5:4:'QuestionImagesMatematika\_01.jpeg'
+Kamila je
+A1:4
+A2:5
+A3:6
+A4:3
+Q5:2:'QuestionImagesMatematika\_01.jpeg'
+Koala medved je
+A1:4
+A2:7
+A3:6
+A4:3
+Q5:3:'QuestionImagesMatematika\_01.jpeg'
+Gorila je
+A1:2
+A2:7
+A3:4
+A4:3
+Q5:2:'QuestionImagesMatematika\_02.jpeg'
+Rezultat je
+A1:27
+A2:26
+A3:40
+A4:36
+Q5:2:'QuestionImagesMatematika\_02.jpeg'
+Lubenica je
+A1:7
+A2:2
+A3:4
+A4:3
+Q5:3:'QuestionImagesMatematika\_03.jpeg'
+Kuglanje je
+A1:48
+A2:45
+A3:50
+A4:36
+Q5:1:'QuestionImagesMatematika\_03.jpeg'
+Koliko je meta
+A1:5
+A2:6
+A3:7
+A4:4
+Q5:2:'QuestionImagesMatematika\_03.jpeg'
+Koliko je košarka
+A1:40
+A2:25
+A3:30
+A4:20
+Q5:1:'QuestionImagesMatematika\_04.jpeg'
+Avon je
+A1:4
+A2:5
+A3:3
+A4:10
+Q5:3:'QuestionImagesMatematika\_04.jpeg'
+Helikopter je
+A1:4
+A2:5
+A3:8
+A4:10
+Q5:1:'QuestionImagesMatematika\_05.jpeg'
+Odgovor je
+A1:6
+A2:5
+A3:8
+A4:10
+Q5:3:'QuestionImagesMatematika\_05.jpeg'
+Televizor je
+A1:6
+A2:5
+A3:4
+A4:8
+Q5:1:'QuestionImagesMatematika\_05.jpeg'
+Telefon je
+A1:4
+A2:8
+A3:6
+A4:9
+Q5:3:'QuestionImagesMatematika\_06.jpeg'
+Policajac je
+A1:4
+A2:8
+A3:6
+A4:9
+Q5:1:'QuestionImagesMatematika\_06.jpeg'
+Da li su beba i policajac isti?
+A1:da
+A2:ne
+A3: 
+A4: 
+Q5:3:'QuestionImagesMatematika\_07.jpeg'
+Koliki je rezultat?
+A1:10
+A2:15
+A3:17
+A4:19 
+Q5:1:'QuestionImagesMatematika\_07.jpeg'
+Koliko je zeleni smeško?
+A1:10
+A2:15
+A3:17
+A4:19 
+Q5:2:'QuestionImagesMatematika\_07.jpeg'
+Koliko je žuti smeško?
+A1:15
+A2:10
+A3:17
+A4:19 
+Q5:3:'QuestionImagesMatematika\_08.jpeg'
+Koliki je rezultat?
+A1:15
+A2:10
+A3:12
+A4:19 
+Q5:2:'QuestionImagesMatematika\_09.jpeg'
+Koliki je rezultat?
+A1:27
+A2:24
+A3:30
+A4:32 
+Q5:4:'QuestionImagesMatematika\_09.jpeg'
+Koliko je hamburger?
+A1:7
+A2:4
+A3:3
+A4:2 
+Q5:3:'QuestionImagesMatematika\_09.jpeg'
+Koliko je torta?
+A1:7
+A2:4
+A3:8
+A4:6
+Q5:1:'QuestionImagesMatematika\_10.jpeg'
+Koliki je rezultat?
+A1:12
+A2:15
+A3:9
+A4:6
+Q5:2:'QuestionImagesMatematika\_10.jpeg'
+Koliko je saksofon?
+A1:2
+A2:4
+A3:9
+A4:6
+Q5:3:'QuestionImagesMatematika\_10.jpeg'
+Koliko je klavijatura?
+A1:3
+A2:2
+A3:4
+A4:6
+Q5:4:'QuestionImagesMatematika\_10.jpeg'
+Koliko je gitara?
+A1:3
+A2:2
+A3:6
+A4:4
+Q5:3:'QuestionImagesMatematika\_11.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi ringišpil?
+A1:5
+A2:12
+A3:18
+A4:16
+Q5:4:'QuestionImagesMatematika\_11.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi raketa?
+A1:5
+A2:2
+A3:8
+A4:6
+Q5:4:'QuestionImagesMatematika\_11.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi kip slobode?
+A1:5
+A2:2
+A3:4
+A4:3
+Q5:2:'QuestionImagesMatematika\_11.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi formula 1?
+A1:5
+A2:2
+A3:4
+A4:3
+Q5:3:'QuestionImagesMatematika\_12.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi miš?
+A1:5
+A2:2
+A3:4
+A4:3
+Q5:2:'QuestionImagesMatematika\_12.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi prase?
+A1:5
+A2:2
+A3:4
+A4:3
+Q5:4:'QuestionImagesMatematika\_12.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi tigar?
+A1:5
+A2:2
+A3:4
+A4:3
+Q5:3:'QuestionImagesMatematika\_13.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi banana?
+A1:5
+A2:2
+A3:6
+A4:3
+Q5:4:'QuestionImagesMatematika\_13.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi ponfrit?
+A1:15
+A2:12
+A3:13
+A4:16
+Q5:2:'QuestionImagesMatematika\_13.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi kafa?
+A1:1
+A2:0
+A3:3
+A4:6
+Q5:2:'QuestionImagesMatematika\_13.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznosi krofna?
+A1:1
+A2:8
+A3:3
+A4:6
+Q5:1:'QuestionImagesMatematika\_13.jpeg'
+Koristeći tablicu množenja
+Zaključi koliko iznose palačinke?
+A1:4
+A2:8
+A3:3
+A4:6
+#Q5:3:'QuestionImagesMatematika\_14.jpeg'
+#Koristeći tablicu množenja
+#Zbir na tabli je 182. Rasporedi 112 na raka i ajkulu.
+#Zaključi koliko iznosi rak?
+#A1:40
+#A2:25
+#A3:30
+#A4:16
+Q5:2:'QuestionImagesMatematika\_14.jpeg'
+Koristeći tablicu množenja
+Zbir na tabli je 182. Rasporedi 112 na raka i ajkulu.
+Zaključi koliko iznosi kit?
+A1:4
+A2:3
+A3:2
+A4:1
+Q5:1:'QuestionImagesMatematika\_14.jpeg'
+Koristeći tablicu množenja
+Zbir na tabli je 182. Rasporedi 112 na raka i ajkulu.
+Zaključi koliko iznosi ribica?
+A1:4
+A2:3
+A3:2
+A4:1
+Q5:1:'QuestionImagesMatematika\_14.jpeg'
+Koristeći tablicu množenja
+Zbir na tabli je 182. Rasporedi 112 na raka i ajkulu.
+Zaključi koliko iznosi ajkula?
+A1:40
+A2:30
+A3:20
+A4:10
+Q5:4:'QuestionImagesMatematika\_15.jpeg'
+Tabla predstavlja broj 1000
+Izračunaj vrednost svake boje
+Koliko iznosi zeleno?
+A1:400
+A2:350
+A3:420
+A4:510
+Q5:2:'QuestionImagesMatematika\_15.jpeg'
+Tabla predstavlja broj 1000
+Izračunaj vrednost svake boje
+Koliko iznosi narandžasto?
+A1:200
+A2:190
+A3:220
+A4:110
+Q5:3:'QuestionImagesMatematika\_15.jpeg'
+Tabla predstavlja broj 1000
+Izračunaj vrednost svake boje
+Koliko iznosi plavo?
+A1:200
+A2:190
+A3:220
+A4:110
+Q5:3:'QuestionImagesMatematika\_15.jpeg'
+Tabla predstavlja broj 1000
+Izračunaj vrednost svake boje
+Koliko iznosi roza?
+A1:100
+A2:90
+A3:80
+A4:110
+Q5:1:'QuestionImagesMatematika\_15.jpeg'
+Tabla predstavlja broj 1000
+Izračunaj vrednost svake boje
+Koliko iznosi jedno polje?
+A1:10
+A2:5
+A3:20
+A4:25
+Q5:3:'QuestionImagesMatematika\_16.jpeg'
+Koji je sledeci broj na reketu?
+A1:16
+A2:15
+A3:17
+A4:20
+Q5:4:'QuestionImagesMatematika\_16.jpeg'
+Koji je sledeci broj na šeširu?
+A1:50
+A2:46
+A3:45
+A4:48
+Q5:2:'QuestionImagesMatematika\_16.jpeg'
+Koji je sledeci broj na jabuci?
+A1:123
+A2:283
+A3:333
+A4:154
+Q5:1:'QuestionImagesMatematika\bc1.jpg'
+Reši jednačine
+A1:18
+A2:9
+A3:6
+A4:2
+Q5:1:'QuestionImagesMatematika\bc2.jpg'
+Reši jednačine
+A1:6
+A2:4
+A3:16
+A4:12
+Q5:1:'QuestionImagesMatematika\bc3.jpg'
+Reši jednačine
+A1:12
+A2:5
+A3:10
+A4:2
+Q5:1:'QuestionImagesMatematika\bc4.jpg'
+Reši jednačine
+A1:16
+A2:9
+A3:12
+A4:13
+Q5:1:'QuestionImagesMatematika\bc5.jpg'
+Reši jednačine
+A1:22
+A2:24
+A3:10
+A4:19
+Q5:1:'QuestionImagesMatematika\bc6.jpg'
+Reši jednačine
+A1:30
+A2:24
+A3:28
+A4:12
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je policajac
+A1:6
+A2:8
+A3:3
+A4:4
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je student
+A1:8
+A2:6
+A3:3
+A4:4
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je ronilac
+A1:42
+A2:30
+A3:32
+A4:16
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je patuljak
+A1:30
+A2:24
+A3:16
+A4:35
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je vatrogasac
+A1:49
+A2:14
+A3:42
+A4:53
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je devojka
+A1:48
+A2:46
+A3:40
+A4:42
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je pilot
+A1:35
+A2:30
+A3:28
+A4:36
+Q5:1:'QuestionImagesMatematika\bc7.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je haker
+A1:56
+A2:48
+A3:36
+A4:44
+Q5:1:'QuestionImagesMatematika\bc8.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je golub
+A1:0
+A2:1
+A3:10
+A4:3
+Q5:1:'QuestionImagesMatematika\bc8.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je kombi
+A1:3
+A2:1
+A3:10
+A4:5
+Q5:1:'QuestionImagesMatematika\bc8.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je simbol mira
+A1:1
+A2:0
+A3:10
+A4:3
+Q5:1:'QuestionImagesMatematika\bc8.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je gitara
+A1:5
+A2:1
+A3:10
+A4:3
+Q5:1:'QuestionImagesMatematika\bc8.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je planeta
+A1:60
+A2:10
+A3:30
+A4:35
+Q5:1:'QuestionImagesMatematika\bc8.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je sadnica
+A1:36
+A2:10
+A3:30
+A4:35
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je banana
+A1:4
+A2:1
+A3:3
+A4:5
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je malina
+A1:12
+A2:10
+A3:16
+A4:8
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je kruška
+A1:2
+A2:10
+A3:3
+A4:4
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je ananas
+A1:32
+A2:12
+A3:36
+A4:24
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je lubenica
+A1:14
+A2:24
+A3:16
+A4:36
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je kivi
+A1:60
+A2:10
+A3:30
+A4:35
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je jabuka
+A1:96
+A2:100
+A3:84
+A4:56
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je limun
+A1:84
+A2:12
+A3:36
+A4:46
+Q5:1:'QuestionImagesMatematika\bc9.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je trešnja
+A1:48
+A2:56
+A3:36
+A4:42
+Q5:1:'QuestionImagesMatematika\bc10.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je slepi miš
+A1:6
+A2:5
+A3:3
+A4:4
+Q5:1:'QuestionImagesMatematika\bc10.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je rukavica
+A1:3
+A2:5
+A3:6
+A4:4
+Q5:1:'QuestionImagesMatematika\bc10.jpg'
+Popuni tablicu množenja i odgovori
+Koliko su zubi
+A1:2
+A2:5
+A3:3
+A4:4
+Q5:1:'QuestionImagesMatematika\bc10.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je mesec
+A1:18
+A2:16
+A3:12
+A4:24
+Q5:1:'QuestionImagesMatematika\bc10.jpg'
+Popuni tablicu množenja i odgovori
+Koliko je napitak
+A1:1
+A2:5
+A3:3
+A4:2
+###############################
+# Tezi zadaci!
+###############################
+Q5:1:'QuestionImagesMatematika\_17.jpeg'
+Zbir na svakoj strani trougla je 17.
+Dodeli brojeve životinjama tako da se ne ponavljaju tako da se dobije ovaj zbir
+Koliko je krava?
+A1:3
+A2:2
+A3:4
+A4:9
+Q5:1:'QuestionImagesMatematika\_17.jpeg'
+Zbir na svakoj strani trougla je 17.
+Dodeli brojeve životinjama tako da se ne ponavljaju tako da se dobije ovaj zbir
+Koliko je lisica?
+A1:6 ili 7
+A2:7 ili 8
+A3:5 ili 6
+A4:4 ili 6
+Q5:2:'QuestionImagesMatematika\_17.jpeg'
+Zbir na svakoj strani trougla je 17.
+Dodeli brojeve životinjama tako da se ne ponavljaju tako da se dobije ovaj zbir
+Koliko je divlja svinja?
+A1:6 ili 8
+A2:7 ili 6
+A3:5 ili 6
+A4:4 ili 6
+Q5:2:'QuestionImagesMatematika\_17.jpeg'
+Zbir na svakoj strani trougla je 17.
+Dodeli brojeve životinjama tako da se ne ponavljaju tako da se dobije ovaj zbir
+Koliko je žaba?
+A1:6 ili 7
+A2:4 ili 8
+A3:5 ili 6
+A4:4 ili 5
+Q5:4:'QuestionImagesMatematika\_17.jpeg'
+Zbir na svakoj strani trougla je 17.
+Dodeli brojeve životinjama tako da se ne ponavljaju tako da se dobije ovaj zbir
+Koliko je majmun?
+A1:6 ili 7
+A2:4 ili 6
+A3:5 ili 6
+A4:4 ili 8
+Q5:3:'QuestionImagesMatematika\_17.jpeg'
+Zbir na svakoj strani trougla je 17.
+Dodeli brojeve životinjama tako da se ne ponavljaju tako da se dobije ovaj zbir
+Koliko je medved?
+A1:6 ili 7
+A2:4 ili 6
+A3:5 ili 9
+A4:4 ili 8
+Q5:2:'QuestionImagesMatematika\_17.jpeg'
+Zbir na svakoj strani trougla je 17.
+Dodeli brojeve životinjama tako da se ne ponavljaju tako da se dobije ovaj zbir
+Koliko je panda?
+A1:6 ili 7
+A2:5 ili 9
+A3:4 ili 6
+A4:4 ili 8

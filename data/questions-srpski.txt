@@ -1,0 +1,105 @@
+QL:1
+Izbaci uljeza! 
+Toma, Tara, tata, Sima, Tea
+A1:tata
+A2:Toma
+A3:Sima
+A4:Tea
+QL:1
+Izbaci uljeza!
+Sava, Sima, Sara, Steva, Simon
+A1:Sara
+A2:Sava
+A3:Simon
+A4:Sima
+QL:1
+Izbaci uljeza!
+Dule, Simke, Siške, Ana, Acka
+A1:Ana
+A2:Dula
+A3:Siške
+A4:Acke
+QL:1
+Izbaci uljeza!
+šešir, javor, macak, baka, medved
+A1:šešir
+A2:javor
+A3:macak
+A4:medved
+QL:1
+Izbaci uljeza!
+Vesna, udica, kokoška, kamila, neven
+A1:Vesna
+A2:udica
+A3:kokoška
+A4:kamila
+QL:1
+Izbaci uljeza!
+Tamiš, Tisa, Dunav, Sava, Zlatibor
+A1:Zlatibor
+A2:Tamiš
+A3:Tisa
+A4:Dunav
+QL:1
+Izbaci uljeza!
+stojište, karta, blok, kompas, sever
+A1:blok
+A2:stojište
+A3:kompas
+A4:sever
+QL:1
+Izbaci uljeza!
+100, 300, 400, 500, 700
+A1:400
+A2:700
+A3:500
+A4:100
+QL:1
+Izbaci uljeza!
+govori, skace, trci, leži, peva
+A1:leži
+A2:peva
+A3:govori
+A4:skace
+QL:1
+Izbaci uljeza!
+grmi, fijuce, veje, vene, seva
+A1:vene
+A2:grmi
+A3:vijuce
+A4:seva
+QL:1
+Izbaci uljeza!
+ljubav, tuga, žalost, voli, sreca
+A1:voli
+A2:ljubav
+A3:tuga
+A4:sreca
+QL:1
+Izbaci uljeza!
+cvece, grožde, lišce, brašno, granje
+A1:brašno
+A2:grožde
+A3:lišce
+A4:cvece
+QL:1
+Izbaci uljeza!
+so, sok, sirup, smokva, šecer
+A1:smokva
+A2:so
+A3:sirup
+A4:sok
+QL:1
+Izbaci uljeza!
+kola, auspuh, brzina, vozi, motor
+A1:vozi
+A2:kola
+A3:auspuh
+A4:motor
+QL:1
+Izbaci uljeza!
+žuta, suva, vetrovita, jesen, blaga
+A1:jesen
+A2:žuta
+A3:suva
+A4:vetrovita
