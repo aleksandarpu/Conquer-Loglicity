@@ -16,8 +16,9 @@ Simple board like game for the lower grades of the primary school
 6. Select answer with up and down cursor keys and press <enter>
 7. If answer is correct, you get points and additional 2 moves
 8. If answer is wrong, you lose all your moves and next player turns
-9. Game is finished when player reach 'crown' icon
-  
+9. Game is finished when player reach 'crown' icon  
+Remember, the questions have time limit!  
+   
 ## Python project 
 Opensource code
 
