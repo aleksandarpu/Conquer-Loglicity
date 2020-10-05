@@ -55,6 +55,14 @@ class Question():
         self.answerRectH.x = self.answerRectH.x + self.imageRectH.width
         self.answerRectH.width = HORIZONTAL_IMAGE_QUESTION_SPACE
 
+        self.timerFnt = load_font('freesans', 24)
+        self.timerImg = self.timerFnt.render('00:00', 1, (100,100,100))
+        self.timerRect = self.timerImg.get_rect()
+        self.timerRect.inflate_ip(5, 5)
+        self.timerRect.move(-2, -2)
+        self.countdown = 30
+        self.timerStart = time.time()
+
     def readQuestion(self, line : str, f ):
         """
         read question data from file
@@ -215,6 +223,25 @@ class Question():
 
         return self.run(scr, arect, ans)
 
+    def drawTimer(self, scr: pg.Surface):
+        r = self.timerRect
+        r.x = self.viewRect.x + self.viewRect.width - self.timerRect.width - 2
+        r.y = self.viewRect.y + self.viewRect.height - self.timerRect.height - 2
+        bg = scr.subsurface(r.x,r.y,r.width,r.height)
+        delta = self.countdown - (time.time() - self.timerStart)
+        min = int(delta // 60)
+        sec = int(delta) - min * 60
+        timestr = '{:02d}:{:02d}'.format(min, sec)
+        if delta > 10:
+            clr = (0,0,0)
+        else:
+            clr=(200, 0,0)
+        img = self.timerFnt.render(timestr, 1, clr)
+        pg.draw.rect(scr, self.bgColor, r)
+        #pg.draw.rect(scr, (200, 10, 10), r)
+        scr.blit(img, self.timerRect)
+
+
     def draw(self, scr: pg.Surface):
         if self.imageFile:
             # lazy load
@@ -234,6 +261,8 @@ class Question():
     def run(self, scr : pg.Surface, aRect : pg.Rect, ans : int):
         doReturn = False;
         pg.event.clear()
+        self.countdown = 30
+        self.timerStart = time.time()
         while True:
             if doReturn:
                 self.drawAnswers(scr, aRect, ans)
@@ -276,6 +305,11 @@ class Question():
                         doReturn = True
 
             self.drawAnswers(scr, aRect, ans)
+            self.drawTimer(scr)
+            if time.time() - self.timerStart > self.countdown:
+                pg.display.update()
+                return False
+
             pg.display.update()
 
 

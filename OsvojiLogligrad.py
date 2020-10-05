@@ -5,6 +5,7 @@ import start_gui
 import colors, config
 import board
 import text_font
+import message
 #import finish, player
 from sound import SoundHandler, soundHandler
 from config import GRID_HEIGHT, GRID_WIDTH, GRID_OFFSET_X, GRID_OFFSET_Y, BLOCK_SIZE
@@ -39,7 +40,7 @@ class StartPos(pg.sprite.Sprite):
         self.rect.y = GRID_OFFSET_Y + GRID_HEIGHT * BLOCK_SIZE + 5
 
 
-def testQuestion():
+def testQuestion(gameboard):
     q = gameboard.questions.qDict['lang'][0]
     a = q.draw(SCREEN)
     if a == True:
@@ -73,10 +74,11 @@ if __name__ == '__main__':
     #fin = finish.Finish()
     #fin.run(SCREEN, player.Player(board.playerImages[0]))
 
-    #testQuestion()
 
     gameboard = board.Board()
     gameboard.init()
+
+    #testQuestion(gameboard)
 
     is_running = True
 

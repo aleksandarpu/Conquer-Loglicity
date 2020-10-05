@@ -9,7 +9,7 @@ from player import Player
 from dice import Dice
 from sound import soundHandler
 from Fields import Fields
-import colors, questions, maze, finish, config
+import colors, questions, maze, finish, config, message
 
 class Board():
 
@@ -31,6 +31,8 @@ class Board():
 
         headerFont = text_font.load_font('comicsanserf', 32)
         self.header = headerFont.render(config.Title, True, pg.Color('gold'))
+        self.messageBoxWin =  message.MessageBox(pg.display.get_surface(), 'comicsansms', 26, 400, 300, colors.winMsgBgColor)
+        self.messageBoxLose =  message.MessageBox(pg.display.get_surface(), 'comicsansms', 26, 400, 300, colors.loseMsgBgColor)
 
     def clear(self):
         self.currentPlayer = -1
@@ -210,12 +212,15 @@ class Board():
                         # if answer is correct player.steps += 2
                         if ret == True:
                             # play success sound
-                            soundHandler.playSoundAndHold('collect')
+                            soundHandler.playSound('collect')
                             self.player.steps = self.player.steps + 2
                             self.player.score = self.player.score + 3
+                            self.messageBoxWin.draw(SCREEN, 'TAČNO!\nDobijaš 2 poena i\n2 dodatna koraka', (200, 0, 0), 20)
+
                         else:
-                            soundHandler.playSoundAndHold('wrong')
-                            time.sleep(0.5)
+                            soundHandler.playSound('wrong')
+                            self.messageBoxWin.draw(SCREEN, 'NETAČNO!\nGubiš korake i\nnastavlja sledeći igrač', (200, 0, 0), 20)
+                            #time.sleep(0.5)
                             self.player.steps = 0
                             pg.event.clear()
 

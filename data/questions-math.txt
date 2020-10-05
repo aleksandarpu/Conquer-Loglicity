@@ -500,8 +500,8 @@ A4:36
 Q5:1:'QuestionImagesMatematika\bc9.jpg'
 Popuni tablicu množenja i odgovori
 Koliko je kivi
-A1:60
-A2:10
+A1:56
+A2:60
 A3:30
 A4:35
 Q5:1:'QuestionImagesMatematika\bc9.jpg'
