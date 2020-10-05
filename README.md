@@ -22,6 +22,7 @@ Simple board like game for the lower grades of the primary school
 Opensource code
 
 ## Require
+python 3.5 + 
 pygame
 
 ## Other files
