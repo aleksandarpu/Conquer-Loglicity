@@ -38,20 +38,25 @@ L - language questions
 ### Walls location
 The positions of the walls are in data/walls.txt
 For horizontal walls the column and the position of the cell above the wall is set
+
 #Horizontal walls: H column and the position
 H 0 2
+
 For the vertical walls the row and the position of the cell left of the wall is set
 #Vertica walls: V row position
 V 0 7, V 1 0, V 1 2, V 1 7, V 2 2, V 3 6, V 4 5, V 4 6, V 4 8
 
 ### Questions
 The questions are in 
+
   data/questions-asoc.txt 
   data/questions-math.txt 
   data/questions-srpski.txt 
   data/questions-zvezda.txt 
+  
 Not all questions have the image attached, but you can se path in header of each question. e.g.
-    Q5:4:'QuestionImagesMatematika\_01.jpeg'
+  
+  Q5:4:'QuestionImagesMatematika\_01.jpeg'
 
 1. first part is Q5
 Q - Question header row
