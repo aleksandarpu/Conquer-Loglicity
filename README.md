@@ -2,6 +2,14 @@
 Simple board like game for the lower grades of the primary school
 "Conquer-Loglicity"
 
+### License
+Conquer-Loglicity - the game Copyright (c) 2020 Aleksandar Putic, P.A>Marvin Soft, Zrenjanin, Serbija
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
 ### The game
 1. On the start page select how many players will play (1..5)
 2. Before the player can move, press the spacebar to roll dice for (1..4) moves
