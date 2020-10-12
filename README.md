@@ -21,7 +21,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
    2. Math ('5' icon)
    3. Assotiations ('A' icon)
    4. Logical questions ('star' icon)
-6. Select answer with up and down cursor keys and press <enter>
+6. Select answer with up and down cursor keys and press #<enter#>
 7. If answer is correct, you get points and additional 2 moves
 8. If answer is wrong, you lose all your moves and next player turns
 9. Game is finished when player reach 'crown' icon  
