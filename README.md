@@ -9,6 +9,8 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of  
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+  
+See license.txt
 
 ### The game
 1. On the start page select how many players will play (1..5)
@@ -28,7 +30,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
 Remember, the questions have time limit!  
    
 ## Python project 
-Opensource code
+This is a opensource project. See License paragraph.
 
 ## Require
 python 3.5 +  
